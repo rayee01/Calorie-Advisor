@@ -1,0 +1,3 @@
+pip instalstreamlit
+google.generativeai
+python-dotenv
